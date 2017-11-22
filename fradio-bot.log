@@ -1,0 +1,313 @@
+2017-11-21 17:57:04,030 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 17:57:04,047 RESPONSE: {"status": "OK"}
+2017-11-21 17:57:04,047 Delaying 278800 ms for song to play
+2017-11-21 18:01:42,944 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 18:01:42,959 RESPONSE: {"status": "OK"}
+2017-11-21 18:01:42,959 Delaying 213800 ms for song to play
+2017-11-21 18:05:16,859 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 18:05:16,865 RESPONSE: {"status": "OK"}
+2017-11-21 18:05:16,865 Delaying 256360 ms for song to play
+2017-11-21 18:09:33,316 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 18:09:33,481 RESPONSE: {"status": "OK"}
+2017-11-21 18:09:33,481 Delaying 264000 ms for song to play
+2017-11-21 18:13:57,582 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 18:13:57,588 RESPONSE: {"status": "OK"}
+2017-11-21 18:13:57,588 Delaying 241000 ms for song to play
+2017-11-21 18:17:58,678 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 18:17:58,684 RESPONSE: {"status": "OK"}
+2017-11-21 18:17:58,684 Delaying 245000 ms for song to play
+2017-11-21 18:22:03,778 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 18:22:03,784 RESPONSE: {"status": "OK"}
+2017-11-21 18:22:03,784 Delaying 351000 ms for song to play
+2017-11-21 18:27:54,875 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 18:27:54,881 RESPONSE: {"status": "OK"}
+2017-11-21 18:27:54,881 Delaying 235800 ms for song to play
+2017-11-21 18:31:50,760 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 18:31:50,766 RESPONSE: {"status": "OK"}
+2017-11-21 18:31:50,766 Delaying 390960 ms for song to play
+2017-11-21 18:38:21,822 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 18:38:21,829 RESPONSE: {"status": "OK"}
+2017-11-21 18:38:21,829 Delaying 278800 ms for song to play
+2017-11-21 18:43:00,723 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 18:43:00,729 RESPONSE: {"status": "OK"}
+2017-11-21 18:43:00,729 Delaying 213800 ms for song to play
+2017-11-21 18:46:34,622 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 18:46:34,628 RESPONSE: {"status": "OK"}
+2017-11-21 18:46:34,628 Delaying 256360 ms for song to play
+2017-11-21 18:50:51,070 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 18:50:51,076 RESPONSE: {"status": "OK"}
+2017-11-21 18:50:51,076 Delaying 264000 ms for song to play
+2017-11-21 18:55:15,134 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 18:55:15,140 RESPONSE: {"status": "OK"}
+2017-11-21 18:55:15,140 Delaying 241000 ms for song to play
+2017-11-21 18:59:16,200 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 18:59:16,206 RESPONSE: {"status": "OK"}
+2017-11-21 18:59:16,206 Delaying 245000 ms for song to play
+2017-11-21 19:03:21,275 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 19:03:21,281 RESPONSE: {"status": "OK"}
+2017-11-21 19:03:21,281 Delaying 351000 ms for song to play
+2017-11-21 19:09:12,362 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 19:09:12,368 RESPONSE: {"status": "OK"}
+2017-11-21 19:09:12,368 Delaying 235800 ms for song to play
+2017-11-21 19:13:08,227 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 19:13:08,233 RESPONSE: {"status": "OK"}
+2017-11-21 19:13:08,233 Delaying 390960 ms for song to play
+2017-11-21 19:19:39,233 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 19:19:39,239 RESPONSE: {"status": "OK"}
+2017-11-21 19:19:39,239 Delaying 278800 ms for song to play
+2017-11-21 19:24:18,078 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 19:24:18,084 RESPONSE: {"status": "OK"}
+2017-11-21 19:24:18,084 Delaying 213800 ms for song to play
+2017-11-21 19:27:51,982 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 19:27:51,987 RESPONSE: {"status": "OK"}
+2017-11-21 19:27:51,987 Delaying 256360 ms for song to play
+2017-11-21 19:32:08,427 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 19:32:08,433 RESPONSE: {"status": "OK"}
+2017-11-21 19:32:08,433 Delaying 264000 ms for song to play
+2017-11-21 19:36:32,511 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 19:36:32,517 RESPONSE: {"status": "OK"}
+2017-11-21 19:36:32,518 Delaying 241000 ms for song to play
+2017-11-21 19:40:33,614 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 19:40:33,620 RESPONSE: {"status": "OK"}
+2017-11-21 19:40:33,620 Delaying 245000 ms for song to play
+2017-11-21 19:44:38,715 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 19:44:38,720 RESPONSE: {"status": "OK"}
+2017-11-21 19:44:38,720 Delaying 351000 ms for song to play
+2017-11-21 19:50:29,802 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 19:50:29,808 RESPONSE: {"status": "OK"}
+2017-11-21 19:50:29,808 Delaying 235800 ms for song to play
+2017-11-21 19:54:25,667 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 19:54:25,673 RESPONSE: {"status": "OK"}
+2017-11-21 19:54:25,673 Delaying 390960 ms for song to play
+2017-11-21 20:00:56,705 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 20:00:56,712 RESPONSE: {"status": "OK"}
+2017-11-21 20:00:56,712 Delaying 278800 ms for song to play
+2017-11-21 20:05:35,574 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 20:05:35,582 RESPONSE: {"status": "OK"}
+2017-11-21 20:05:35,582 Delaying 213800 ms for song to play
+2017-11-21 20:09:09,450 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 20:09:09,463 RESPONSE: {"status": "OK"}
+2017-11-21 20:09:09,463 Delaying 256360 ms for song to play
+2017-11-21 20:13:25,892 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 20:13:25,898 RESPONSE: {"status": "OK"}
+2017-11-21 20:13:25,898 Delaying 264000 ms for song to play
+2017-11-21 20:17:49,990 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 20:17:49,996 RESPONSE: {"status": "OK"}
+2017-11-21 20:17:49,996 Delaying 241000 ms for song to play
+2017-11-21 20:21:51,082 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 20:21:51,090 RESPONSE: {"status": "OK"}
+2017-11-21 20:21:51,091 Delaying 245000 ms for song to play
+2017-11-21 20:25:56,191 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 20:25:56,196 RESPONSE: {"status": "OK"}
+2017-11-21 20:25:56,196 Delaying 351000 ms for song to play
+2017-11-21 20:31:47,293 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 20:31:47,299 RESPONSE: {"status": "OK"}
+2017-11-21 20:31:47,299 Delaying 235800 ms for song to play
+2017-11-21 20:35:43,156 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 20:35:43,162 RESPONSE: {"status": "OK"}
+2017-11-21 20:35:43,162 Delaying 390960 ms for song to play
+2017-11-21 20:47:32,283 Enter while
+2017-11-21 20:47:32,283 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 20:47:32,292 RESPONSE: {"status": "OK"}
+2017-11-21 20:47:32,292 Delaying 278800 ms for song to play
+2017-11-21 20:52:11,178 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 20:52:11,184 RESPONSE: {"status": "OK"}
+2017-11-21 20:52:11,184 Delaying 213800 ms for song to play
+2017-11-21 20:55:45,081 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 20:55:45,087 RESPONSE: {"status": "OK"}
+2017-11-21 20:55:45,087 Delaying 256360 ms for song to play
+2017-11-21 21:00:01,545 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 21:00:01,552 RESPONSE: {"status": "OK"}
+2017-11-21 21:00:01,552 Delaying 264000 ms for song to play
+2017-11-21 21:04:25,634 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 21:04:25,640 RESPONSE: {"status": "OK"}
+2017-11-21 21:04:25,640 Delaying 241000 ms for song to play
+2017-11-21 21:08:26,740 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 21:08:26,746 RESPONSE: {"status": "OK"}
+2017-11-21 21:08:26,746 Delaying 245000 ms for song to play
+2017-11-21 21:12:31,838 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 21:12:31,844 RESPONSE: {"status": "OK"}
+2017-11-21 21:12:31,844 Delaying 351000 ms for song to play
+2017-11-21 21:18:22,935 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 21:18:22,942 RESPONSE: {"status": "OK"}
+2017-11-21 21:18:22,942 Delaying 235800 ms for song to play
+2017-11-21 21:22:18,827 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 21:22:18,833 RESPONSE: {"status": "OK"}
+2017-11-21 21:22:18,833 Delaying 390960 ms for song to play
+2017-11-21 21:29:31,097 Enter while
+2017-11-21 21:29:31,098 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 21:29:31,108 RESPONSE: {"status": "OK"}
+2017-11-21 21:29:31,108 Delaying 278800 ms for song to play
+2017-11-21 21:29:37,229 Enter while
+2017-11-21 21:29:37,229 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 21:29:37,236 RESPONSE: {"status": "OK"}
+2017-11-21 21:29:37,236 Delaying 278800 ms for song to play
+2017-11-21 21:29:39,800 Enter while
+2017-11-21 21:29:39,800 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 21:29:39,807 RESPONSE: {"status": "OK"}
+2017-11-21 21:29:39,808 Delaying 278800 ms for song to play
+2017-11-21 21:34:18,704 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 21:34:18,710 RESPONSE: {"status": "OK"}
+2017-11-21 21:34:18,710 Delaying 213800 ms for song to play
+2017-11-21 21:37:52,610 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 21:37:52,616 RESPONSE: {"status": "OK"}
+2017-11-21 21:37:52,616 Delaying 256360 ms for song to play
+2017-11-21 21:42:09,074 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 21:42:09,079 RESPONSE: {"status": "OK"}
+2017-11-21 21:42:09,079 Delaying 264000 ms for song to play
+2017-11-21 21:46:33,172 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 21:46:33,178 RESPONSE: {"status": "OK"}
+2017-11-21 21:46:33,178 Delaying 241000 ms for song to play
+2017-11-21 21:50:34,242 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 21:50:34,248 RESPONSE: {"status": "OK"}
+2017-11-21 21:50:34,248 Delaying 245000 ms for song to play
+2017-11-21 21:54:39,348 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 21:54:39,354 RESPONSE: {"status": "OK"}
+2017-11-21 21:54:39,354 Delaying 351000 ms for song to play
+2017-11-21 22:00:30,417 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 22:00:30,423 RESPONSE: {"status": "OK"}
+2017-11-21 22:00:30,423 Delaying 235800 ms for song to play
+2017-11-21 22:04:26,313 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 22:04:26,319 RESPONSE: {"status": "OK"}
+2017-11-21 22:04:26,319 Delaying 390960 ms for song to play
+2017-11-21 22:10:57,379 Enter while
+2017-11-21 22:10:57,379 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 22:10:57,385 RESPONSE: {"status": "OK"}
+2017-11-21 22:10:57,385 Delaying 278800 ms for song to play
+2017-11-21 22:15:36,275 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 22:15:36,281 RESPONSE: {"status": "OK"}
+2017-11-21 22:15:36,281 Delaying 213800 ms for song to play
+2017-11-21 22:19:10,140 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 22:19:10,146 RESPONSE: {"status": "OK"}
+2017-11-21 22:19:10,146 Delaying 256360 ms for song to play
+2017-11-21 22:23:26,594 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 22:23:26,600 RESPONSE: {"status": "OK"}
+2017-11-21 22:23:26,600 Delaying 264000 ms for song to play
+2017-11-21 22:27:50,681 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 22:27:50,687 RESPONSE: {"status": "OK"}
+2017-11-21 22:27:50,687 Delaying 241000 ms for song to play
+2017-11-21 22:31:51,780 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 22:31:51,785 RESPONSE: {"status": "OK"}
+2017-11-21 22:31:51,786 Delaying 245000 ms for song to play
+2017-11-21 22:35:56,883 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 22:35:56,889 RESPONSE: {"status": "OK"}
+2017-11-21 22:35:56,889 Delaying 351000 ms for song to play
+2017-11-21 22:41:47,950 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 22:41:47,956 RESPONSE: {"status": "OK"}
+2017-11-21 22:41:47,956 Delaying 235800 ms for song to play
+2017-11-21 22:45:43,850 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 22:45:43,856 RESPONSE: {"status": "OK"}
+2017-11-21 22:45:43,857 Delaying 390960 ms for song to play
+2017-11-21 22:52:14,883 Enter while
+2017-11-21 22:52:14,883 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 22:52:14,889 RESPONSE: {"status": "OK"}
+2017-11-21 22:52:14,889 Delaying 278800 ms for song to play
+2017-11-21 22:56:53,763 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 22:56:53,769 RESPONSE: {"status": "OK"}
+2017-11-21 22:56:53,770 Delaying 213800 ms for song to play
+2017-11-21 23:00:27,670 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 23:00:27,676 RESPONSE: {"status": "OK"}
+2017-11-21 23:00:27,676 Delaying 256360 ms for song to play
+2017-11-21 23:04:44,121 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 23:04:44,126 RESPONSE: {"status": "OK"}
+2017-11-21 23:04:44,126 Delaying 264000 ms for song to play
+2017-11-21 23:09:08,206 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-21 23:09:08,211 RESPONSE: {"status": "OK"}
+2017-11-21 23:09:08,211 Delaying 241000 ms for song to play
+2017-11-21 23:13:09,307 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-21 23:13:09,313 RESPONSE: {"status": "OK"}
+2017-11-21 23:13:09,314 Delaying 245000 ms for song to play
+2017-11-21 23:17:14,408 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-21 23:17:14,414 RESPONSE: {"status": "OK"}
+2017-11-21 23:17:14,414 Delaying 351000 ms for song to play
+2017-11-21 23:23:05,502 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-21 23:23:05,507 RESPONSE: {"status": "OK"}
+2017-11-21 23:23:05,507 Delaying 235800 ms for song to play
+2017-11-21 23:27:01,407 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-21 23:27:01,413 RESPONSE: {"status": "OK"}
+2017-11-21 23:27:01,413 Delaying 390960 ms for song to play
+2017-11-21 23:33:32,465 Enter while
+2017-11-21 23:33:32,466 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-21 23:33:32,472 RESPONSE: {"status": "OK"}
+2017-11-21 23:33:32,472 Delaying 278800 ms for song to play
+2017-11-21 23:38:11,363 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-21 23:38:11,369 RESPONSE: {"status": "OK"}
+2017-11-21 23:38:11,369 Delaying 213800 ms for song to play
+2017-11-21 23:41:45,262 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-21 23:41:45,267 RESPONSE: {"status": "OK"}
+2017-11-21 23:41:45,268 Delaying 256360 ms for song to play
+2017-11-21 23:46:01,702 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-21 23:46:01,707 RESPONSE: {"status": "OK"}
+2017-11-21 23:46:01,707 Delaying 264000 ms for song to play
+2017-11-22 00:06:30,173 Enter while
+2017-11-22 00:06:30,173 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 00:06:30,182 RESPONSE: {"status": "OK"}
+2017-11-22 00:06:30,182 Delaying 278800 ms for song to play
+2017-11-22 00:11:09,705 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-22 00:11:09,711 RESPONSE: {"status": "OK"}
+2017-11-22 00:11:09,711 Delaying 213800 ms for song to play
+2017-11-22 00:14:43,595 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-22 00:14:43,601 RESPONSE: {"status": "OK"}
+2017-11-22 00:14:43,601 Delaying 256360 ms for song to play
+2017-11-22 00:19:00,027 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-22 00:19:00,032 RESPONSE: {"status": "OK"}
+2017-11-22 00:19:00,033 Delaying 264000 ms for song to play
+2017-11-22 00:23:24,133 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-22 00:23:24,138 RESPONSE: {"status": "OK"}
+2017-11-22 00:23:24,139 Delaying 241000 ms for song to play
+2017-11-22 00:27:25,230 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A34C3UVHdq8Uay5EzUHvJqH&t=0&len=245000&playing=1
+2017-11-22 00:27:25,235 RESPONSE: {"status": "OK"}
+2017-11-22 00:27:25,235 Delaying 245000 ms for song to play
+2017-11-22 00:31:30,302 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4r4VpAcwrKtvX4klQ9EHUs&t=0&len=351000&playing=1
+2017-11-22 00:31:30,309 RESPONSE: {"status": "OK"}
+2017-11-22 00:31:30,309 Delaying 351000 ms for song to play
+2017-11-22 00:37:21,379 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A0awgWi0pDZ2qzxQL75DJtz&t=0&len=235800&playing=1
+2017-11-22 00:37:21,386 RESPONSE: {"status": "OK"}
+2017-11-22 00:37:21,386 Delaying 235800 ms for song to play
+2017-11-22 00:41:17,282 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A2hYS79fHfVPgxb8PHFksHJ&t=0&len=390960&playing=1
+2017-11-22 00:41:17,288 RESPONSE: {"status": "OK"}
+2017-11-22 00:41:17,288 Delaying 390960 ms for song to play
+2017-11-22 00:47:48,329 Enter while
+2017-11-22 00:47:48,329 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 00:47:48,335 RESPONSE: {"status": "OK"}
+2017-11-22 00:47:48,335 Delaying 278800 ms for song to play
+2017-11-22 00:52:27,226 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A4IBoDzxcRRRhQ6dozP28aQ&t=0&len=213800&playing=1
+2017-11-22 00:52:27,232 RESPONSE: {"status": "OK"}
+2017-11-22 00:52:27,232 Delaying 213800 ms for song to play
+2017-11-22 00:56:01,124 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1K9B43e0PyilYctK0WgoO4&t=0&len=256360&playing=1
+2017-11-22 00:56:01,130 RESPONSE: {"status": "OK"}
+2017-11-22 00:56:01,130 Delaying 256360 ms for song to play
+2017-11-22 00:59:52,483 Enter while
+2017-11-22 00:59:52,483 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 00:59:52,492 RESPONSE: {"status": "OK"}
+2017-11-22 00:59:52,492 Delaying 278800 ms for song to play
+2017-11-22 01:00:17,574 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3Vrw3TH5qkTReMFHVfI3v8&t=0&len=264000&playing=1
+2017-11-22 01:00:17,579 RESPONSE: {"status": "OK"}
+2017-11-22 01:00:17,579 Delaying 264000 ms for song to play
+2017-11-22 01:04:14,789 Enter while
+2017-11-22 01:04:14,790 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 01:04:14,798 RESPONSE: {"status": "OK"}
+2017-11-22 01:04:14,798 Delaying 278800 ms for song to play
+2017-11-22 01:04:41,653 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A1FLQYGTaDYzGjpP9c82Q1G&t=0&len=241000&playing=1
+2017-11-22 01:04:41,659 RESPONSE: {"status": "OK"}
+2017-11-22 01:04:41,659 Delaying 241000 ms for song to play
+2017-11-22 01:05:30,521 Enter while
+2017-11-22 01:05:30,521 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 01:05:30,529 RESPONSE: {"status": "OK"}
+2017-11-22 01:05:30,529 Delaying 278800 ms for song to play
+2017-11-22 01:07:42,939 Enter while
+2017-11-22 01:07:42,939 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 01:07:42,948 RESPONSE: {"status": "OK"}
+2017-11-22 01:07:42,948 Delaying 278800 ms for song to play
+2017-11-22 01:09:31,914 Enter while
+2017-11-22 01:09:31,914 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 01:09:31,923 RESPONSE: {"status": "OK"}
+2017-11-22 01:09:31,923 Delaying 278800 ms for song to play
+2017-11-22 01:13:51,740 Enter while
+2017-11-22 01:13:51,740 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 01:13:51,748 RESPONSE: {"status": "OK"}
+2017-11-22 01:13:51,748 Delaying 278800 ms for song to play
+2017-11-22 01:20:18,319 Enter while
+2017-11-22 01:20:18,319 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 01:20:18,328 RESPONSE: {"status": "OK"}
+2017-11-22 01:20:18,328 Delaying 278800 ms for song to play
