@@ -311,3 +311,11 @@
 2017-11-22 01:20:18,319 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
 2017-11-22 01:20:18,328 RESPONSE: {"status": "OK"}
 2017-11-22 01:20:18,328 Delaying 278800 ms for song to play
+2017-11-22 01:53:55,122 Enter while
+2017-11-22 01:53:55,122 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=GrooveRobot&trackid=spotify%3Atrack%3A1egLXYlUsAtNCSHHqYRtZJ&t=0&len=59480&playing=1
+2017-11-22 01:53:55,130 RESPONSE: {"status": "OK"}
+2017-11-22 01:53:55,130 Delaying 59480 ms for song to play
+2017-11-22 01:54:38,970 Enter while
+2017-11-22 01:54:38,970 GETTING http://ec2-35-182-236-140.ca-central-1.compute.amazonaws.com/broadcast?spotifyusername=RoyalScamBot&trackid=spotify%3Atrack%3A3sqNXrDvCy4nid6XbaA2Cg&t=0&len=278800&playing=1
+2017-11-22 01:54:38,979 RESPONSE: {"status": "OK"}
+2017-11-22 01:54:38,979 Delaying 278800 ms for song to play
